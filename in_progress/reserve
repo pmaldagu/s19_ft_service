@@ -1,6 +1,0 @@
-😄  minikube v1.11.0 sur Darwin 10.14.6
-✨  Choix automatique du pilote hyperkit. Autres choix: <no value>
-👍  Démarrage du noeud de plan de contrôle minikube dans le cluster minikube
-🔥  Création de VM hyperkit (CPUs=2, Mémoire=4000MB, Disque=20000MB)...
-🐳  Préparation de Kubernetes v1.18.3 sur Docker 19.03.8...
-    ▪ apiserver.service-node-port-range=1-6000
